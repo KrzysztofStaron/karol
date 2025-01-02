@@ -25,7 +25,7 @@ function foo() {
   if (isLoading === true) {
     return (
       <div className="w-screen h-screen flex items-center justify-center">
-        <Spinner />;
+        <Spinner />
       </div>
     );
   }
